@@ -15,7 +15,4 @@ Our project is an AI-powered incident response assistant that supports SOC opera
 - reports/
 - src/
 
-Author: -Sneha Mishra
- -Shreya More 
- -Isha Mandpe
- -Pranjal Kardile 
+Author: Sneha Mishra, Shreya More, Isha Mandpe, Pranjal Kardile 
